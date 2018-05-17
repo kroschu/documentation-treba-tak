@@ -1,4 +1,4 @@
 ---
 layout: default
-title:  Samvera Community Training'
+title:  Training
 ---
