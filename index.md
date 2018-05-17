@@ -1,7 +1,7 @@
 ---
-title: A Guide For The Perplexed Samvera Developer
-a-z: [A Guide For The Perplexed Samvera Developer]
-keywords: sample homepage
+title: A Guide For Research Data Management
+a-z: [A Guide For Research Data Management]
+keywords: knowledge base homepage
 tags: [getting_started]
 sidebar: home_sidebar
 permalink: index.html
@@ -11,9 +11,9 @@ toc: false
    <div class="col-lg-12">
       <h2 class="page-header">Knowledge Base Categories</h2>
 
-      <a href="https://github.com/samvera/samvera.github.io" class="btn btn-lg btn-primary" target="_blank">Contribute New Documentation</a>
+      <a href="https://git.it-services.ruhr-uni-bochum.de/frenzjb5/ag-fdm.io" class="btn btn-lg btn-primary" target="_blank">Contribute New Documentation</a>
 
-      <h4>Note: This site is under active development. Some pages do not yet contain content, and are either in creation or awaiting approval. If there's a page you'd like to see prioritized, create an <a href="https://github.com/samvera/samvera.github.io/issues/new">issue</a>. Pages that contain full content have been reviewed and approved of.</h4>
+      <h4>Note: This site is under active development. Some pages do not yet contain content, and are either in creation or awaiting approval. If there's a page you'd like to see prioritized, create an <a href="https://git.it-services.ruhr-uni-bochum.de/frenzjb5/ag-fdm.io/issues/new">issue</a>. Pages that contain full content have been reviewed and approved of.</h4>
    </div>
    <div class="col-md-3 col-sm-6">
        <div class="panel panel-default text-center">
@@ -69,7 +69,7 @@ toc: false
                </span>
            </div>
            <div class="panel-body">
-               <h4>Samvera Development Community</h4>
+               <h4>Development Community</h4>
                <p>Contributing, development patterns</p>
                <a href="tag_community.html" class="btn btn-primary">Learn More</a>
            </div>
