@@ -69,8 +69,8 @@ toc: false
                </span>
            </div>
            <div class="panel-body">
-               <h4>Development Community</h4>
-               <p>Contributing, development patterns</p>
+               <h4>Community</h4>
+               <p>Contributing</p>
                <a href="tag_community.html" class="btn btn-primary">Learn More</a>
            </div>
        </div>
