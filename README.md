@@ -1,5 +1,8 @@
 # ag-fdm.io
 
+## Our Theme
+
+We use a Jekyll theme designed for [documentation](https://github.com/tomjohnson1492/documentation-theme-jekyll). We chose the Documentation Theme because of its excellent navigation and clear page layout, and for the ease of working in markdown.
 <!--
 [![Build Status](https://travis-ci.org/samvera/samvera.github.io.svg?branch=master)](https://travis-ci.org/samvera/samvera.github.io)
 
@@ -169,6 +172,3 @@ mv generated/atoz.md pages
 ```
 Then commit pages/atoz.md to github
 
-## Our Theme
-
-We use a Jekyll theme designed for [documentation](https://github.com/tomjohnson1492/documentation-theme-jekyll). We chose the Documentation Theme because of its excellent navigation and clear page layout, and for the ease of working in markdown.
