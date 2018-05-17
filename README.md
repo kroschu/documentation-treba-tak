@@ -13,10 +13,13 @@ We use a Jekyll-based custom theme for markup and display, and pages are publish
 
 These are community documents, so we rely on the pull request model. If you'd like to contribute content:
 
-- clone this project 
+- clone this project   
+
 <!--
 (link on [samvera/samvera.github.io](http://samvera.github.io)) 
+
 -->
+
 - make a branch for your new documentation
 - run `bundle install`
 - create/edit pages within the agfdm directory (e.g. [/pages/agfdm/](https://git.it-services.ruhr-uni-bochum.de/frenzjb5/ag-fdm.io/tree/master/pages/agfdm))
