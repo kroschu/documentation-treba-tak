@@ -1,9 +1,9 @@
 ---
-title: "Community"
-a-z: ["Community"]
-tagName: community
+title: "Resources"
+a-z: ["Resources"]
+tagName: resources
 search: exclude
-permalink: tag_community.html
+permalink: tag_resources.html
 sidebar: home_sidebar
 folder: tags
 ---
