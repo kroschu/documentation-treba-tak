@@ -39,7 +39,7 @@ toc: false
                </span>
            </div>
            <div class="panel-body">
-               <h4>Development Resources</h4>
+               <h4>Resources</h4>
                <p>Questions and answer articles and tutorials.</p>
                <a href="tag_development_resources.html" class="btn btn-primary">Learn More</a>
            </div>
@@ -54,8 +54,8 @@ toc: false
                </span>
            </div>
            <div class="panel-body">
-               <h4>Running in Production</h4>
-               <p>How to run parts of the solr stack in production.</p>
+               <h4>Services and Products</h4>
+               <p>RDM services and products to support your research.</p>
                <a href="tag_running_in_production.html" class="btn btn-primary">Learn More</a>
            </div>
        </div>
