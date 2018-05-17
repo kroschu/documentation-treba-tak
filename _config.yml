@@ -4,13 +4,13 @@
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Hyrax Developer Knowledge Base
+topnav_title: RUB Research Data Management Knowledge Base
 # this appears on the top navigation bar next to the home button
 
-site_title: Hyrax Developer Knowledge Base
+site_title: RUB Research Data Management Knowledge Base
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Samvera Community
+company_name: RUB Research Data Management
 # this appears in the footer
 
 # github_editme_path: tomjohnson1492/documentation-theme-jekyll/blob/gh-pages/
@@ -32,7 +32,7 @@ exclude:
 
 feedback_subject_line: Jekyll documentation theme
 
-feedback_email: bess@ibiblio.org
+feedback_email: fdm-helpdesk@rub.de
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
@@ -102,9 +102,9 @@ description: ""
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: http://samvera.github.io
-production_url : https://samvera.github.io
-BASE_PATH : https://samvera.github.io
+url: http://www.ruhr-uni-bochum.de/researchdata/knowledgebase
+production_url: http://www.ruhr-uni-bochum.de/researchdata/knowledgebase
+BASE_PATH: http://www.ruhr-uni-bochum.de/researchdata/knowledgebase
 
 a_z:
     index_title: false
