@@ -10,7 +10,7 @@ We use a Jekyll theme designed for [documentation](https://github.com/tomjohnson
 
 ## How Does This Work?
 
-We use a Jekyll-based custom theme for markup and display, and pages are published to http://samvera.github.io.
+We use a Jekyll-based custom theme for markup and display, and pages are published to http://www.rub.de/researchdata/??? .
 
 ## Adding or Editing Content
 

@@ -271,12 +271,13 @@ textarea {
   background-image: none;
 }
 a {
-  color: #248EC2;
+  color: #325e71;
   text-decoration: none;
 }
 a:hover,
 a:focus {
   text-decoration: underline;
+  color: #8dae10;
 }
 a:focus {
   outline: thin dotted #333;
