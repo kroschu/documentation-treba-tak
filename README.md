@@ -4,7 +4,7 @@
 
 We use a Jekyll theme designed for [documentation](https://github.com/tomjohnson1492/documentation-theme-jekyll). We chose the Documentation Theme because of its excellent navigation and clear page layout, and for the ease of working in markdown.
 <!--
-[![Build Status](https://travis-ci.org/samvera/samvera.github.io.svg?branch=master)](https://travis-ci.org/samvera/samvera.github.io)
+[![Build Status]()
 
 -->
 
@@ -18,10 +18,7 @@ These are community documents, so we rely on the pull request model. If you'd li
 
 - clone this project   
 
-<!--
-(link on [samvera/samvera.github.io](http://samvera.github.io)) 
-
--->
+(link on [FDM/ag-fdm.io](http://git.it-services.rub.de/FDM/ag-fdm.io)) 
 
 - make a branch for your new documentation
 - run `bundle install`
@@ -45,19 +42,22 @@ bundle exec jekyll serve
 
 ### Basic Front Matter
 
-Example front matter for page [Best Practices -> Coding Styles](https://raw.githubusercontent.com/samvera/samvera.github.io/master/pages/samvera/developer_resources/best_practices/coding_style.md)
+<!--
+Example front matter for page [Best Practices -> Coding Styles]()
 ```
+-->
+
 ---
-title: "Coding Style with RuboCop"
+title: "Coding Style"
 permalink: best-practices-coding-styles.html
-folder: samvera/how-to/best_practices/coding_styles.md
+folder: agfdm/how-to/best_practices/coding_styles.md
 sidebar: home_sidebar
-a-z: ['Coding Styles', 'Rubocop']
+a-z: ['Coding Styles', 'Markdown']
 keywords: Best Practices
 tags: [development_resources]
 categories: How to Do All the Things
 version:
-  id: 'hyrax_1.0-stable'
+  id: 'fdm_io_1.0-stable'
 ---
 ```
 where,
@@ -67,7 +67,7 @@ where,
 * **sidebar** [text] - _(required)_ - value is always `home_sidebar` at this point
 * **a-z** [Array<Strings>] - _(recommended)_ - array of terms to link to this page in the A-Z Index
 * **keywords** [comma separated list] - _(recommended)_ - keywords that get populated into the metadata of the page for SEO
-* **tags** [Array<text>] - _(recommended)_ - array of tags where tags must be defined in your [_data/tags.yml](https://github.com/samvera/samvera.github.io/tree/master/_data/tags.yml) list. You also need a corresponding tag file inside the [pages/tags](https://github.com/samvera/samvera.github.io/tree/master/pages/tags) folder that follows the same pattern as the other tag files shown in the tags folder.  It is rare that a new tag would be created.  If you think you need a new tag, be sure to highlight it as requiring review in the issue.
+* **tags** [Array<text>] - _(recommended)_ - array of tags where tags must be defined in your [_data/tags.yml](https://git.it-services.rub.de/FDM/ag-fdm.io/tree/master/_data/tags.yml) list. You also need a corresponding tag file inside the [pages/tags](https://git.it-services.rub.de/FDM/ag-fdm.io/tree/master/pages/tags) folder that follows the same pattern as the other tag files shown in the tags folder.  It is rare that a new tag would be created.  If you think you need a new tag, be sure to highlight it as requiring review in the issue.
 * **categories** [text] - _(recommended)_ - represents the 4 major headings under which a page can reside
 * **version** [hash] - _(recommended)_ - specifies the gem's name and version that this documentation page describes.  See [Versioning Information](#versioning-information) for details.
 
@@ -78,18 +78,16 @@ You can highlight content with the following...
 ```
 <ul class='info'><li>This shows an info icon and provides the user additional information in a blue box.</li></ul>
 ```
-![info box](https://github.com/samvera/samvera.github.io/tree/master/assets/images/readme_documentation/info_box.jpg "Info Box")
-(Example: [code](https://raw.githubusercontent.com/samvera/samvera.github.io/master/pages/hydra/developer_resources/customize_metadata/hyrax_1.0/generate-work-type.md), [webpage](http://samvera.github.io/customize-metadata-generate-work-type.html))
-
+![info box](https://git.it-services.rub.de/FDM/ag-fdm.io/tree/master/assets/images/readme_documentation/info_box.jpg "Info Box")
 ```
 <ul class='warning'><li>This shows a warning icon and provides the user warning information in a red box.</li></ul>
 ```
-![warning box](https://github.com/samvera/samvera.github.io/tree/master/assets/images/readme_documentation/warning_box.jpg "Warning Box")
+![warning box](https://git.it-services.rub.de/FDM/ag-fdm.io/tree/master/assets/images/readme_documentation/warning_box.jpg "Warning Box")
 
 ```
 <ul class='question'><li>This shows a question icon and provides the user with information in a yellow box indicating that there may be some uncertainty about a particular piece of information in the documentation.</li></ul>
 ```
-![question box](https://github.com/samvera/samvera.github.io/tree/master/assets/images/readme_documentation/question_box.jpg "Question Box")
+![question box](https://git.it-services.rub.de/FDM/ag-fdm.io/tree/master/assets/images/readme_documentation/question_box.jpg "Question Box")
 
 
 NOTE: You cannot use markdown in these boxes.  For example, if you want a link, you will have to use an html anchor tag.
@@ -102,12 +100,12 @@ The documentation on this site covers multiple gems and multiple versions of tho
 
 ##### Predefined version information
 
-Common gems have version information encoded and can be referenced by id in front matter.  The predefined version information is defined in [_includes/version_info/](https://github.com/samvera/samvera.github.io/tree/master/_includes/version_info)
+Common gems have version information encoded and can be referenced by id in front matter.  The predefined version information is defined in [_includes/version_info/](https://git.it-services.rub.de/FDM/ag-fdm.io/tree/master/_includes/version_info)
 
-Example for Hyrax v1.0 stable:
+Example for fdm_io v1.0 stable:
 ```
 version:
-  id: 'hyrax_1.0-stable'
+  id: 'fdm_io_1.0-stable'
 ```
 
 ##### Custom version information
@@ -117,10 +115,10 @@ If the predefined version information does not exist.  You can specify custom va
 Example custom version information:
 ```
 version:
-  label: 'Hydra Role Management v0.2.2'
+  label: 'AG FDM Management v0.2.2'
   branch:
     label: 'master'
-    link: 'https://github.com/samvera/hydra-role-management'
+    link: 'https://git.it-services.rub.de/FDM/ag-fdm.io/FDM/projectmanagement'
 ```
 
 ##### Adding predefined version information for a gem version
@@ -129,22 +127,22 @@ It is good practice to add predefined version information, as this allows reuse 
 
 Adding predefined version information is a two step process.
 
-1. Add the version information to a new version file in directory [_includes/version_info/](https://github.com/samvera/samvera.github.io/tree/master/_includes/version_info) naming the file with the gem and verion number (e.g. version_hyrax_1.0-stable.html).  Include in the new file assignments for version_label, branch_label, and branch_link.
+1. Add the version information to a new version file in directory [_includes/version_info/](https://git.it-services.rub.de/FDM/ag-fdm.io/tree/master/_includes/version_info) naming the file with the gem and verion number (e.g. version_fdm_io_1.0-stable.html).  Include in the new file assignments for version_label, branch_label, and branch_link.
 
-Example assignments for Hyrax v1.0:
+Example assignments for fdm_io v1.0:
 ```
-{% assign version_label = 'Hyrax stable v1.0' %}
+{% assign version_label = 'fdm_io stable v1.0' %}
 {% assign branch_label = '1.0-stable' %}
-{% assign branch_link = 'https://github.com/samvera/hyrax/tree/1-0-stable' %}
+{% assign branch_link = 'https://git.it-services.rub.de/FDM/ag-fdm.io/FDM/projectmanagement/tree/1-0-stable' %}
 ```
 
-2. Add a new condition in [_includes/versions.html](https://github.com/samvera/samvera.github.io/tree/master/_includes/versions.html) that includes the predefined version information if its id is specified in front matter for a document.  The condition in the case statement becomes the id that is used in front matter.
+2. Add a new condition in [_includes/versions.html](https://git.it-services.rub.de/FDM/ag-fdm.io/tree/master/_includes/versions.html) that includes the predefined version information if its id is specified in front matter for a document.  The condition in the case statement becomes the id that is used in front matter.
 
 Example conditional include based on id:
 ```
 {% case page.version.id %}
-{% when 'hyrax_1.0-stable' %}
-  {% include version_info/version_hyrax_1.0-stable.html %}
+{% when 'fdm_io_1.0-stable' %}
+  {% include version_info/version_fdm_io_1.0-stable.html %}
 ...
 {% endcase %}
 ```
@@ -157,10 +155,10 @@ Example front matter for multiple versions:
 ```
 version:
   versions:  
-    - label: 'Hyrax 1.0'
+    - label: 'fdm_io 1.0'
       link:  'what-happens-deposit-1.0.html'
       selected: 'true'
-    - label: 'Hyrax 2.0'
+    - label: 'fdm_io 2.0'
       link:  'what-happens-deposit-2.0.html'  
 ```
 
