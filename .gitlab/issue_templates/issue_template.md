@@ -1,7 +1,7 @@
 ### Descriptive summary of request
 
 Include a detailed description of the documentation issue you are submitting. Include
-the version of software (Sufia, Hyrax, Hyku, etc.) that you are working in.
+the version of software that you are working in.
 
 ### Existing Documentation
 
