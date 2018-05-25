@@ -1,11 +1,11 @@
 ---
 title: Introduction
 a-z: [Introduction]
-keywords: samvera orientation
+keywords: agfdm orientation
 last_updated: March 30, 2017
 tags: [getting_started]
-summary: "Introduction: What is Samvera?"
-sidebar: samvera_sidebar
+summary: "Introduction: What is FDM?"
+sidebar: agfdm_sidebar
 permalink: agfdm-introduction.html
 folder: agfdm
 ---
