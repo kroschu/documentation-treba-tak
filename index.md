@@ -9,7 +9,7 @@ toc: false
 ---
 <div class="row">
    <div class="col-lg-12">
-      <h2 class="page-header">Knowledge Base Categories</h2>
+      <h2 class="page-header"> {% t header %} Knowledge Base Categories</h2>
 
       <a href="https://git.it-services.ruhr-uni-bochum.de/frenzjb5/ag-fdm.io" class="btn btn-lg btn-primary" target="_blank">Contribute New Documentation</a>
 
