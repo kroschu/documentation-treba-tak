@@ -1,9 +1,9 @@
 # theme: documentation-theme-jekyll
 # repository: tomjohnson1492/documentation-theme-jekyll
 
+baseurl: ""
 languages: ["en", "de"]
 exclude_from_localizations: ["js", "images", "css"]
-baseurl: ""
 
 
 output: web
