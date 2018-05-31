@@ -1,5 +1,7 @@
 global:
-  header: Knowledge Base Categories
+  german: Deutsch
+  english: Englisch
+  choose_language: Wechsle zu
 header: Wissensdatenbankkategorien
 pages:
   header: Knowledge Base Categories
