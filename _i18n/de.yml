@@ -10,6 +10,7 @@ titles:
 feedback:
   site_text: RUB Helpdesk
   text: Feedback
+  subject_line: Leitfaden Forschungsdatenmanagement
   submit: Feedback senden
   email_text_one: Ich habe ein Feedback zur Seite
   email_text_two: ":" 

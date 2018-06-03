@@ -10,6 +10,7 @@ titles:
 feedback:
   site_text: RUB Helpdesk
   text: Feedback
+  subject_line: A Guide For Research Data Management 
   submit: Submit feedback
   email_text_one: I have some feedback about the
   email_text_two: "page:"

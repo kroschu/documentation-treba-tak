@@ -35,7 +35,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: feedback.site_text
+feedback_subject_line: feedback.subject_line
 
 feedback_email: fdm-helpdesk@rub.de
 # used as a contact email for the Feedback link in the top navigation bar
@@ -43,7 +43,7 @@ feedback_email: fdm-helpdesk@rub.de
 # feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
-# feedback_text: "Need help?"
+feedback_text: site.feedback_text
 # if you uncomment the previous line, it changes the Feedback text
 
 # feedback_link: "http://helpy.io/"
