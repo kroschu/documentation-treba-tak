@@ -14,6 +14,12 @@ feedback:
   submit: Feedback senden
   email_text_one: Ich habe ein Feedback zur Seite
   email_text_two: ":" 
+tags:
+  getting_started: erste_Schritte
+  resources: Resourcen
+  services_and_products: Dienstleistungen_und_Produkte
+  community: Gemeinschaft
+  special_layouts: Spezielle_Layouts 
 index:
   title: Wissensdatenbankkategorien
   contribute: Neue Dokumentation beisteuern

@@ -14,6 +14,12 @@ feedback:
   submit: Submit feedback
   email_text_one: I have some feedback about the
   email_text_two: "page:"
+tags:
+  getting_started: getting_started
+  resources: resources
+  services_and_products: services_and_products
+  community: community
+  special_layouts: special_layouts
 index:
   title: Knowledge Base Categories
   contribute: Contribute New Documentation
