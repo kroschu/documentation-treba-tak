@@ -1,7 +1,39 @@
+---
 global:
   german: German
   english: English
-  choose_language: Change to 
-header: Knowledge Base Categories
-pages:
-  header: Knowledge Base Categories
+  choose_language: Change to
+titles:
+  home: A Guide For Research Data Management
+  site_title: RUB Research Data Management Knowledge Base
+  topnav_title: RUB RDM Knowledge Base
+feedback:
+  site_text: RUB Helpdesk
+  text: Feedback
+  submit: Submit feedback
+  email_text_one: I have some feedback about the
+  email_text_two: "page:"
+index:
+  title: Knowledge Base Categories
+  contribute: Contribute New Documentation
+  description: |
+    "Note: This site is under active development. Some pages
+    do not yet contain content, and are either in creation or
+    awaiting approval. If there's a page you'd like to see
+    prioritized, create an <a
+    href="https://git.it-services.ruhr-uni-bochum.de/frenzjb5/ag-fdm.io/issues/new">issue</a>.
+    Pages that contain full content have been reviewed and
+    approved of."
+  learn: Learn More
+  new_start_here:
+    title: New? Start here.
+    description: Introductory and background material.
+  resources:
+    title: Resources
+    description: Questions and answer articles and tutorials.
+  products:
+    title: Services and Products
+    description: RDM services and products to support your research.
+  community:
+    title: Community
+    description: Contributing

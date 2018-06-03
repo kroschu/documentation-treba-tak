@@ -9,10 +9,10 @@ exclude_from_localizations: ["js", "images", "css"]
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: RUB Research Data Management Knowledge Base
+topnav_title: titles.topnav_title
 # this appears on the top navigation bar next to the home button
 
-site_title: RUB Research Data Management Knowledge Base
+site_title: titles.site_title
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: RUB Research Data Management
@@ -35,7 +35,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Helpdesk
+feedback_subject_line: feedback.site_text
 
 feedback_email: fdm-helpdesk@rub.de
 # used as a contact email for the Feedback link in the top navigation bar

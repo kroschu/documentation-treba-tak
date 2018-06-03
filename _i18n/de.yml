@@ -1,7 +1,39 @@
+---
 global:
   german: Deutsch
   english: Englisch
   choose_language: Wechsle zu
-header: Wissensdatenbankkategorien
-pages:
-  header: Knowledge Base Categories
+titles:
+  home: Leitfaden Forschungsdatenmanagement
+  site_title: RUB Forschungsdatenmanagement Wissensdatenbank
+  topnav_title: RUB Wissensdatenbank FDM 
+feedback:
+  site_text: RUB Helpdesk
+  text: Feedback
+  submit: Feedback senden
+  email_text_one: Ich habe ein Feedback zur Seite
+  email_text_two: ":" 
+index:
+  title: Wissensdatenbankkategorien
+  contribute: Neue Dokumentation beisteuern
+  description: |
+    "Hinweis: Diese Seite befindet sich in aktiver Entwicklung. Einige Seiten
+    enthalten noch keinen Inhalt und befinden sich entweder in der Erstellung
+    oder warten auf ihre Genehmigung. Wenn es eine Seite gibt, die priorisiert
+    werden soll, erstellen Sie eine <a
+    href="https://git.it-services.ruhr-uni-bochum.de/frenzjb5/ag-fdm.io/issues/new">
+    Seite Problem </a>. Seiten, die den vollständigen Inhalt
+    enthalten, wurden überprüft und genehmigt."
+  learn: Erfahren Sie mehr
+  new_start_here:
+    title: Neu? Starten Sie hier.
+    description: Einführungs- und Hintergrundmaterial.
+  resources:
+    title: Ressourcen
+    description: Fragen und Antworten Artikel und Tutorials.
+  products:
+    title: Dienstleistungen und Produkte
+    description: FDM-Unterstützung Ihrer Forschung.
+  community:
+    title: Gemeinschaft
+    description: Beitragen
