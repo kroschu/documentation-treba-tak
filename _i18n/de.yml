@@ -6,20 +6,20 @@ global:
 titles:
   home: Leitfaden Forschungsdatenmanagement
   site_title: RUB Forschungsdatenmanagement Wissensdatenbank
-  topnav_title: RUB Wissensdatenbank FDM 
+  topnav_title: RUB Wissensdatenbank FDM
 feedback:
   site_text: RUB Helpdesk
   text: Feedback
   subject_line: Leitfaden Forschungsdatenmanagement
   submit: Feedback senden
   email_text_one: Ich habe ein Feedback zur Seite
-  email_text_two: ":" 
+  email_text_two: ":"
 tags:
   getting_started: erste_Schritte
   resources: Resourcen
   services_and_products: Dienstleistungen_und_Produkte
   community: Gemeinschaft
-  special_layouts: Spezielle_Layouts 
+  special_layouts: Spezielle_Layouts
 index:
   title: Wissensdatenbankkategorien
   contribute: Neue Dokumentation beisteuern
@@ -28,8 +28,8 @@ index:
     enthalten noch keinen Inhalt und befinden sich entweder in der Erstellung
     oder warten auf ihre Genehmigung. Wenn es eine Seite gibt, die priorisiert
     werden soll, erstellen Sie eine <a
-    href="https://git.it-services.ruhr-uni-bochum.de/FDM/ag-fdm.io/issues/new">
-    Seite Problem </a>. Seiten, die den vollständigen Inhalt
+    href="https://git.it-services.ruhr-uni-bochum.de/FDM/ag-fdm.io/issues/new?issuable_template=issue_template_de">Anfrage/Problemmeldung
+    </a>. Seiten, die den vollständigen Inhalt
     enthalten, wurden überprüft und genehmigt."
   learn: Erfahren Sie mehr
   new_start_here:

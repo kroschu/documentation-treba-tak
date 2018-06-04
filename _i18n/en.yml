@@ -10,7 +10,7 @@ titles:
 feedback:
   site_text: RUB Helpdesk
   text: Feedback
-  subject_line: A Guide For Research Data Management 
+  subject_line: A Guide For Research Data Management
   submit: Submit feedback
   email_text_one: I have some feedback about the
   email_text_two: "page:"
@@ -28,7 +28,7 @@ index:
     do not yet contain content, and are either in creation or
     awaiting approval. If there's a page you'd like to see
     prioritized, create an <a
-    href="https://git.it-services.ruhr-uni-bochum.de/FDM/ag-fdm.io/issues/new">issue</a>.
+    href="https://git.it-services.ruhr-uni-bochum.de/FDM/ag-fdm.io/issues/new?issuable_template=issue_template">issue</a>.
     Pages that contain full content have been reviewed and
     approved of."
   learn: Learn More
