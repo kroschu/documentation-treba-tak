@@ -22,7 +22,7 @@ These are community documents, so we rely on the pull request model. If you'd li
 
 - make a branch for your new documentation
 - run `bundle install`
-- create/edit pages within the agfdm directory (e.g. [/pages/agfdm/](https://git.it-services.ruhr-uni-bochum.de/frenzjb5/ag-fdm.io/tree/master/pages/agfdm))
+- create/edit pages within the agfdm directory (e.g. [/pages/agfdm/](https://git.it-services.ruhr-uni-bochum.de/FDM/ag-fdm.io/tree/master/pages/agfdm))
 - add/update [front matter](#basic-front-matter)
 - add links to the page in home_sidebar.yml
 - write content ([notes on writing content](#notes-on-writing-content))

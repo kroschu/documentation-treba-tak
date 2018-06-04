@@ -12,7 +12,7 @@ toc: false
    <div class="col-lg-12">
       <h2 class="page-header"> {% t index.title %} </h2>
 
-      <a href="https://git.it-services.ruhr-uni-bochum.de/frenzjb5/ag-fdm.io" class="btn btn-lg btn-primary" target="_blank">{% t index.contribute %} </a>
+      <a href="https://git.it-services.ruhr-uni-bochum.de/FDM/ag-fdm.io" class="btn btn-lg btn-primary" target="_blank">{% t index.contribute %} </a>
 
       <h4> {% t index.description %} </h4>
    </div>
