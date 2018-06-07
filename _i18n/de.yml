@@ -7,6 +7,8 @@ titles:
   home: Leitfaden Forschungsdatenmanagement
   site_title: RUB Forschungsdatenmanagement Wissensdatenbank
   topnav_title: RUB Wissensdatenbank FDM
+  training: Training
+  a_z_index: 'A-Z Index'
 feedback:
   site_text: RUB Helpdesk
   text: Feedback
@@ -17,7 +19,7 @@ feedback:
 tags:
   getting_started: erste_Schritte
   resources: Resourcen
-  services_and_products: Dienstleistungen_und_Produkte
+  servicesproducts: Dienstleistungen_und_Produkte
   community: Gemeinschaft
   special_layouts: Spezielle_Layouts
 index:

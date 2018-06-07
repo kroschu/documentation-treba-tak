@@ -1,5 +1,5 @@
 ---
-title: 'A-Z Index'
+title: titles.a_z_index
 permalink: a-z.html
 folder: a-z.md
 sidebar: home_sidebar

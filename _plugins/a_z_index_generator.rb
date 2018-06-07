@@ -160,7 +160,7 @@ module Jekyll
 
     def write_md(file, idx)
       file.puts "---"
-      file.puts "title: 'A-Z Index'"
+      file.puts "title: titles.a_z_index"
       file.puts "permalink: a-z.html"
       file.puts "folder: a-z.md"
       @config['front_matter_ext'].each { |fm| file.puts fm }
@@ -223,7 +223,7 @@ module Jekyll
     def write_term(file, term_url)
       term = term_url[0]
       url = term_url[1]
-      file.puts "      <a class='atoz_term' href='#{url}'>#{term}</a>"
+      file.puts "      <a class='atoz_term' href='{{ #{url} | prepend: site.baseurl_root }}'>{% t #{term} %}</a>"
       file.puts "      <br>"
     end
 

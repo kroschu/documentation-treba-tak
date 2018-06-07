@@ -1,4 +1,4 @@
 ---
 layout: default
-title:  Training
+title:  titles.training
 ---

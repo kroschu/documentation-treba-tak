@@ -7,6 +7,8 @@ titles:
   home: A Guide For Research Data Management
   site_title: RUB Research Data Management Knowledge Base
   topnav_title: RUB RDM Knowledge Base
+  training: Training
+  a_z_index: 'A-Z Index'
 feedback:
   site_text: RUB Helpdesk
   text: Feedback
@@ -17,7 +19,7 @@ feedback:
 tags:
   getting_started: getting_started
   resources: resources
-  services_and_products: services_and_products
+  servicesproducts: services_and_products
   community: community
   special_layouts: special_layouts
 index:

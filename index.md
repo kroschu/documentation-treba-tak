@@ -1,5 +1,5 @@
 ---
-title: "titles.home"
+title: titles.home
 a-z: [A Guide For Research Data Management]
 keywords: knowledge base homepage
 tags: [getting_started]
