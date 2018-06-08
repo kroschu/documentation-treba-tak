@@ -1,5 +1,5 @@
 ---
-title: "Community"
+title: titles.tags.community
 a-z: ["Community"]
 tagName: community
 search: exclude

@@ -1,5 +1,6 @@
 ---
 global:
+  introduction: Introduction
   german: German
   english: English
   choose_language: Change to
@@ -7,7 +8,21 @@ titles:
   home: A Guide For Research Data Management
   site_title: RUB Research Data Management Knowledge Base
   topnav_title: RUB RDM Knowledge Base
+  introduction: Introduction
+  search: Search
+  tags:
+    servicesproducts: Services and Products
+    resources: Resources
+    getting_started: Getting Started
+    community: Community
+    special_layouts: "Spezielle Layouts-Seite"
+  pages:
+    agfdm:
+      ask_for_help: How to Ask for Help
   training: Training
+  special_layouts: Special layout pages
+  shuffle_layout: Shuffle layout
+  scroll_layout: Scroll layout
   a_z_index: 'A-Z Index'
 feedback:
   site_text: RUB Helpdesk

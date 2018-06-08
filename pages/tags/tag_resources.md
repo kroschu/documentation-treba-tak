@@ -1,5 +1,5 @@
 ---
-title: "Resources"
+title: titles.tags.resources
 a-z: ["Resources"]
 tagName: resources
 search: exclude

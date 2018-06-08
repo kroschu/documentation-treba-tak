@@ -1,5 +1,5 @@
 ---
-title: "Services and Products"
+title: titles.tags.servicesproducts
 a-z: ["Services and Products"]
 tagName: servicesproducts
 search: exclude

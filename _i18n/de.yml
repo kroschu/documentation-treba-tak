@@ -1,5 +1,6 @@
 ---
 global:
+  introduction: Vorstellung
   german: Deutsch
   english: Englisch
   choose_language: Wechsle zu
@@ -7,7 +8,21 @@ titles:
   home: Leitfaden Forschungsdatenmanagement
   site_title: RUB Forschungsdatenmanagement Wissensdatenbank
   topnav_title: RUB Wissensdatenbank FDM
+  introduction: Vorstellung
+  search: Suche
+  tags:
+    servicesproducts: Dienstleistungen und Produkte
+    resources: Resourcen
+    getting_started: Erste Schritte
+    community: Gemeinschaft
+    special_layouts: "Spezielle Layouts-Seite"
+  pages:
+    agfdm:
+      ask_for_help: Wie bekomme ich Hilfe
   training: Training
+  special_layouts: Spezielle Layout-Seite
+  shuffle_layout: Shuffle Layout
+  scroll_layout: Scroll Layout
   a_z_index: 'A-Z Index'
 feedback:
   site_text: RUB Helpdesk

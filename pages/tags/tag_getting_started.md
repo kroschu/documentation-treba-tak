@@ -1,5 +1,5 @@
 ---
-title: "Getting started pages"
+title: titles.tags.getting_started
 a-z: ["Getting started pages"]
 tagName: getting_started
 search: exclude

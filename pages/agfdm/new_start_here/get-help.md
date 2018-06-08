@@ -1,5 +1,5 @@
 ---
-title: "How to Ask for Help"
+title: titles.pages.agfdm.ask_for_help
 a-z: ["How to Ask for Help"]
 keywords: contact community help
 permalink: agfdm-get-help.html
