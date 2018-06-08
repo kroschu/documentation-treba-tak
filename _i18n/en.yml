@@ -50,6 +50,16 @@ atoz:
   agfdm:
     ask_for_help: how_to_ask_for_help
   introduction: Introduction
+sidebar:
+  new_start_here: New? Start Here
+  introduction: Introduction
+  ask_for_help: How to Ask for Help
+  servicesproducts: Services and Products
+  resources: Resources
+  community: Community
+  layouts: Layouts
+  special_layouts: special_layouts
+  shuffle_layout: Shuffle layout
 index:
   title: Knowledge Base Categories
   contribute: Contribute New Documentation

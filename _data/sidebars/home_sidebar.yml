@@ -3,35 +3,35 @@
 entries:
 - title: sidebar
   folders:
-  - title: New? Start Here
+  - title: sidebar.new_start_here
     output: web, pdf
     folderitems:
 
-    - title: Introduction
+    - title: sidebar.introduction
       url: /agfdm-introduction.html
       output: web, pdf
 
-    - title: How to Ask for Help
+    - title: sidebar.ask_for_help
       url: /agfdm-get-help.html
       output: web, pdf
 
-  - title: Community
+  - title: sidebar.community
     output: web, pdf
     folderitems:
       
-  - title: Resources
+  - title: sidebar.resources
     output: web, pdf
     folderitems:
 
-  - title: Services and Products
+  - title: sidebar.servicesproducts
     output: web, pdf
     folderitems:
 
-  - title: Layouts
+  - title: sidebar.layouts
     output: web, pdf
     folderitems:
 
-    - title: Shuffle layout
+    - title: sidebar.shuffle_layout
       url: /agfdm_shuffle.html
       output: web, pdf
 

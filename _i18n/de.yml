@@ -50,6 +50,16 @@ atoz:
   agfdm:
     ask_for_help: wie_bekomme_ich_hilfe
   introduction: Vorstellung
+sidebar:
+  new_start_here: Neu? Begin hier
+  introduction: Vorstellung
+  ask_for_help: Wie bekomme ich Hilfe
+  servicesproducts: Dienstleistungen und Produkte
+  resources: Resourcen
+  community: Gemeinschaft
+  layouts: Layouts
+  special_layouts: Spezielle_Layouts
+  shuffle_layout: Shuffle Layout
 index:
   title: Wissensdatenbankkategorien
   contribute: Neue Dokumentation beisteuern

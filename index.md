@@ -10,11 +10,11 @@ toc: false
 
 <div class="row">
    <div class="col-lg-12">
-      <h2 class="page-header"> {% t index.title %} </h2>
+      <h2 class="page-header">{% t index.title %}</h2>
 
       <a href="https://git.it-services.ruhr-uni-bochum.de/FDM/ag-fdm.io" class="btn btn-lg btn-primary" target="_blank">{% t index.contribute %} </a>
 
-      <h4> {% t index.description %} </h4>
+      <h4>{% t index.description %}</h4>
    </div>
    <div class="col-md-3 col-sm-6">
        <div class="panel panel-default text-center">
