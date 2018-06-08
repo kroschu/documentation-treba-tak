@@ -1,6 +1,6 @@
 ---
 title: titles.pages.agfdm.ask_for_help
-a-z: ["How to Ask for Help"]
+a-z: [atoz.ask_for_help]
 keywords: contact community help
 permalink: agfdm-get-help.html
 folder: agfdm

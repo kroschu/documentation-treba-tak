@@ -1,6 +1,6 @@
 ---
 title: titles.home
-a-z: [A Guide For Research Data Management]
+a-z: [atoz.home]
 keywords: knowledge base homepage
 tags: [getting_started]
 sidebar: home_sidebar

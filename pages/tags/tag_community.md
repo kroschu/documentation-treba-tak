@@ -1,6 +1,6 @@
 ---
 title: titles.tags.community
-a-z: ["Community"]
+a-z: [atoz.community]
 tagName: community
 search: exclude
 permalink: tag_community.html

@@ -1,6 +1,6 @@
 ---
 title: titles.tags.resources
-a-z: ["Resources"]
+a-z: [atoz.resources]
 tagName: resources
 search: exclude
 permalink: tag_resources.html

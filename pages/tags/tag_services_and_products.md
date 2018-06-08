@@ -1,6 +1,6 @@
 ---
 title: titles.tags.servicesproducts
-a-z: ["Services and Products"]
+a-z: [atoz.servicesproducts]
 tagName: servicesproducts
 search: exclude
 permalink: tag_services_and_products.html

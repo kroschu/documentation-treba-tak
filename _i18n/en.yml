@@ -16,6 +16,7 @@ titles:
     getting_started: Getting Started
     community: Community
     special_layouts: "Spezielle Layouts-Seite"
+    servicesproducts: "Services and Products"
   pages:
     agfdm:
       ask_for_help: How to Ask for Help
@@ -37,6 +38,18 @@ tags:
   servicesproducts: services_and_products
   community: community
   special_layouts: special_layouts
+atoz:
+  home: A Guide For Research Data Management
+  servicesproducts: Services and Products
+  resources: Resources
+  getting_started: Getting Started
+  ask_for_help: How to Ask for Help
+  community: Community
+  special_layouts: special_layouts
+  scroll_layout: scroll_layout
+  agfdm:
+    ask_for_help: how_to_ask_for_help
+  introduction: Introduction
 index:
   title: Knowledge Base Categories
   contribute: Contribute New Documentation

@@ -1,6 +1,6 @@
 ---
 title: titles.introduction
-a-z: [Introduction]
+a-z: [atoz.introduction]
 keywords: agfdm orientation
 last_updated: March 30, 2017
 tags: [getting_started]

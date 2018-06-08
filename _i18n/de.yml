@@ -16,6 +16,7 @@ titles:
     getting_started: Erste Schritte
     community: Gemeinschaft
     special_layouts: "Spezielle Layouts-Seite"
+    servicesproducts: "Dienstleistungen und Produkte"
   pages:
     agfdm:
       ask_for_help: Wie bekomme ich Hilfe
@@ -37,6 +38,18 @@ tags:
   servicesproducts: Dienstleistungen_und_Produkte
   community: Gemeinschaft
   special_layouts: Spezielle_Layouts
+atoz:
+  home: Leitfaden Forschungsdatenmanagement
+  servicesproducts: Dienstleistungen und Produkte
+  resources: Resourcen
+  getting_started: Erste Schritte
+  ask_for_help: Wie bekomme ich Hilfe
+  community: Gemeinschaft
+  special_layouts: Spezielle_Layouts
+  scroll_layout: scroll_layout
+  agfdm:
+    ask_for_help: wie_bekomme_ich_hilfe
+  introduction: Vorstellung
 index:
   title: Wissensdatenbankkategorien
   contribute: Neue Dokumentation beisteuern
