@@ -77,6 +77,14 @@ index:
     title: Gemeinschaft
     description: Beitragen
 pages:
+  tags:
+    taglogic:
+      text: Die folgenden Seiten und Beiträge sind mit
+      text_two: markiert.
+      page: Seite
+      title: Titel
+      type: Typ
+      excerpt: Exzerpt
   agfdm:
     ask_for_help: 
       title: Wie bekomme ich Hilfe

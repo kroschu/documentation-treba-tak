@@ -77,6 +77,14 @@ index:
     title: Community
     description: Contributing
 pages:
+  tags:
+    taglogic:
+      text: The following pages and posts are tagged with
+      text_two: .
+      page: page
+      title: Title
+      type: Type
+      excerpt: Excerpt
   agfdm:
     ask_for_help: 
       title: How to Ask for Help
