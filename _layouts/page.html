@@ -49,8 +49,9 @@ layout: default
         <b>Tags: </b>
         {% assign projectTags = site.data.tags.allowed-tags %}
         {% for tag in page.tags %}
-        {% if projectTags contains tag %}
-        <a href="{{ "tag_" | append: tag | append: ".html" }}" class="btn btn-default navbar-btn cursorNorm" role="button">{{page.tagName}}{% t tags.{{tag}} %}</a>
+          {% assign ttag = tag  |  remove: 'tags.' %}
+        {% if projectTags contains ttag %}
+        <a href="{{ "tag_" | append: ttag | append: ".html" }}" class="btn btn-default navbar-btn cursorNorm" role="button">{{page.tagName}}{% t {{tag}} %}</a>
         {% endif %}
         {% endfor %}
         {% endif %}

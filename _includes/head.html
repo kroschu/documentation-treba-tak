@@ -1,8 +1,25 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="{% if page.summary %}{{ page.summary | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
-<meta name="keywords" content="{{page.tags}}{% if page.tags %}, {% endif %} {{page.keywords}}">
+{% if page.summary %}
+  {% assign page_summary = page.summary %}
+  {% capture page_summary %}{% t page.summary %}{% endcapture %}
+{% endif %}
+<meta name="description" content="{% if page.summary %}{{ page_summary | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
+{% if page.tags %}
+  {% for tag in page.tags %}
+    {% assign ttag = tag %}
+    {% capture ttag %}{% t {{ tag }} %}{% endcapture %}
+    {% assign page_tags = ttag | prepend: page_tags | append: ", " %}
+  {% endfor %}
+{% endif %}
+
+{% for key in page.keywords %}
+  {% assign tkey = key %}
+  {% capture tkey %}{% t {{ key }} %}{% endcapture %}
+  {% assign page_keywords = tkey | prepend: page_keywords | append: ", " %}
+{% endfor %}
+<meta name="keywords" content="{{page_tags}}{% if page.tags %}, {% endif %} {{page_keywords}}">
 <title>{% t {{ page.title }} %} | {% t {{ site.site_title }} %}</title>
 <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl_root }}">
 

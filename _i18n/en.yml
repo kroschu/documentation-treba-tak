@@ -1,6 +1,5 @@
 ---
 global:
-  introduction: Introduction
   german: German
   english: English
   choose_language: Change to
@@ -8,7 +7,6 @@ titles:
   home: A Guide For Research Data Management
   site_title: RUB Research Data Management Knowledge Base
   topnav_title: RUB RDM Knowledge Base
-  introduction: Introduction
   search: Search
   tags:
     servicesproducts: Services and Products
@@ -17,9 +15,6 @@ titles:
     community: Community
     special_layouts: "Spezielle Layouts-Seite"
     servicesproducts: "Services and Products"
-  pages:
-    agfdm:
-      ask_for_help: How to Ask for Help
   training: Training
   special_layouts: Special layout pages
   shuffle_layout: Shuffle layout
@@ -47,9 +42,6 @@ atoz:
   community: Community
   special_layouts: special_layouts
   scroll_layout: scroll_layout
-  agfdm:
-    ask_for_help: how_to_ask_for_help
-  introduction: Introduction
 sidebar:
   new_start_here: New? Start Here
   introduction: Introduction
@@ -84,3 +76,13 @@ index:
   community:
     title: Community
     description: Contributing
+pages:
+  agfdm:
+    ask_for_help: 
+      title: How to Ask for Help
+      atoz: How to Ask for Help
+    introduction:
+      title: Introduction
+      atoz: Introduction
+      summary: "Introduction: What is FDM?"
+      keywords: AGFDM Orientation

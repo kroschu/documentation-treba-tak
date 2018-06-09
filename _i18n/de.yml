@@ -1,6 +1,5 @@
 ---
 global:
-  introduction: Vorstellung
   german: Deutsch
   english: Englisch
   choose_language: Wechsle zu
@@ -8,18 +7,14 @@ titles:
   home: Leitfaden Forschungsdatenmanagement
   site_title: RUB Forschungsdatenmanagement Wissensdatenbank
   topnav_title: RUB Wissensdatenbank FDM
-  introduction: Vorstellung
   search: Suche
   tags:
     servicesproducts: Dienstleistungen und Produkte
-    resources: Resourcen
+    resources: Ressourcen
     getting_started: Erste Schritte
     community: Gemeinschaft
     special_layouts: "Spezielle Layouts-Seite"
     servicesproducts: "Dienstleistungen und Produkte"
-  pages:
-    agfdm:
-      ask_for_help: Wie bekomme ich Hilfe
   training: Training
   special_layouts: Spezielle Layout-Seite
   shuffle_layout: Shuffle Layout
@@ -34,28 +29,25 @@ feedback:
   email_text_two: ":"
 tags:
   getting_started: erste_Schritte
-  resources: Resourcen
+  resources: Ressourcen
   servicesproducts: Dienstleistungen_und_Produkte
   community: Gemeinschaft
   special_layouts: Spezielle_Layouts
 atoz:
   home: Leitfaden Forschungsdatenmanagement
   servicesproducts: Dienstleistungen und Produkte
-  resources: Resourcen
+  resources: Ressourcen
   getting_started: Erste Schritte
   ask_for_help: Wie bekomme ich Hilfe
   community: Gemeinschaft
   special_layouts: Spezielle_Layouts
   scroll_layout: scroll_layout
-  agfdm:
-    ask_for_help: wie_bekomme_ich_hilfe
-  introduction: Vorstellung
 sidebar:
   new_start_here: Neu? Begin hier
   introduction: Vorstellung
   ask_for_help: Wie bekomme ich Hilfe
   servicesproducts: Dienstleistungen und Produkte
-  resources: Resourcen
+  resources: Ressourcen
   community: Gemeinschaft
   layouts: Layouts
   special_layouts: Spezielle_Layouts
@@ -84,3 +76,13 @@ index:
   community:
     title: Gemeinschaft
     description: Beitragen
+pages:
+  agfdm:
+    ask_for_help: 
+      title: Wie bekomme ich Hilfe
+      atoz: Wie bekomme ich Hilfe
+    introduction:
+      title: Vorstellung
+      atoz: Vorstellung
+      summary: 'Einleitung: Was ist FDM?'
+      keywords: AGFDM Orientierung

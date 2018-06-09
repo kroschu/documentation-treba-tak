@@ -1,10 +1,10 @@
 ---
-title: titles.introduction
-a-z: [atoz.introduction]
-keywords: agfdm orientation
+title: pages.agfdm.introduction.title
+a-z: [pages.agfdm.introduction.atoz]
+keywords: pages.agfdm.introduction.keywords
 last_updated: March 30, 2017
-tags: [getting_started]
-summary: "Introduction: What is FDM?"
+tags: [tags.getting_started]
+summary: pages.agfdm.introduction.summary
 sidebar: agfdm_sidebar
 permalink: agfdm-introduction.html
 folder: agfdm
