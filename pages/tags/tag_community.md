@@ -1,7 +1,7 @@
 ---
 title: titles.tags.community
 a-z: [atoz.community]
-tagName: community
+tagName: tags.community
 search: exclude
 permalink: tag_community.html
 sidebar: home_sidebar

@@ -1,7 +1,7 @@
 ---
-title: titles.special_layouts
+title: titles.tags.special_layouts
 a-z: [atoz.special_layouts]
-tagName: special_layouts
+tagName: tags.special_layouts
 search: exclude
 permalink: tag_special_layouts.html
 sidebar: home_sidebar

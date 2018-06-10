@@ -1,7 +1,7 @@
 ---
 title: titles.tags.resources
 a-z: [atoz.resources]
-tagName: resources
+tagName: tag.resources
 search: exclude
 permalink: tag_resources.html
 sidebar: home_sidebar

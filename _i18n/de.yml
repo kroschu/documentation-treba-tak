@@ -50,6 +50,11 @@ sidebar:
   layouts: Layouts
   special_layouts: Spezielle_Layouts
   shuffle_layout: Shuffle Layout
+include:
+  note: "Hinweis:"
+  important: "Wichtig:"
+  warning: "Warnung:"
+  tip: "Tip:"
 index:
   title: Wissensdatenbankkategorien
   contribute: Neue Dokumentation beisteuern
@@ -90,6 +95,48 @@ pages:
       summary: "Dieses Layout zeigt ein Beispiel für ein wissensbasiertes
                Navigationssystem, bei dem es keine Hierarchie gibt, sondern nur
                Gruppen von Seiten mit bestimmten Tags."
+      alerts_note: "Der Inhalt dieser Seite wird im PDF nicht gut angezeigt,
+                aber ich habe ihn trotzdem hinzugefügt, damit Sie die Probleme
+                dieses Layouts sehen können, wenn Sie es in PDF einbinden. "
+      buttons:
+        all: Alles
+        getting_started: Erste Schritte
+        formatting: Formatierung
+        publishing: Veröffentlichung
+        content_types: Inhaltstypen
+        single_sourcing: Single-Sourcing
+        special_layouts: Spezielle Layouts
+      panel_headings:
+        getting_started: Erste Schritte
+        formatting: Formatierung
+        publishing: Veröffentlichung
+        content_types: Inhaltstypen
+        single_sourcing: Single-Sourcing
+        special_layouts: Spezielle Layouts
+      panel_body:
+        getting_started: "Wenn Sie in Jekyll einsteigen wollen, sehen Sie sich
+                         die Links in diesem Abschnitt an. Es wird Sie vom
+                         Einsteigs- bis zum zum  Intermediärlevel bringen."
+        formatting: "Diese Themen werden in Formatierungssyntax wie Bilder
+                     und Tabellen, die Sie auf jeder Ihrer Seiten verwenden
+                     werden:"
+        publishing: Wenn Sie Ihre Jekyll-Site erstellen, veröffentlichen und
+                    bereitstellen, sind diese Themen möglicherweise hilfreich.
+        content_types: In diesem Abschnitt werden verschiedene Inhaltstypen und
+                       ihre Verwendung aufgeführt.
+        single_sourcing: Diese Themen behandeln Strategien für Single_Sourcing.
+                    Single-Sourcing bezieht sich auf Strategien zur
+                    Wiederverwendung der gleichen Quelle in verschiedenen
+                    Ausgaben für unterschiedliche Zielgruppen oder Zwecke.
+        special_layouts: Auf diesen Seiten werden spezielle Layouts außerhalb
+                        der herkömmlichen Seiten- und
+                        Inhaltsverzeichnishierarchie hervorgehoben.
+      note: Dies war meistens ein Experiment, um zu
+            sehen, ob ich mich vom hierarchischen TOC lösen und eine
+            andere Art der Anordnung des Inhalts bereitstellen könnte.
+            Dieses Layout ist jedoch etwas problematisch, da Sie während
+            des Anzeigens eines Themas keine anderen Navigationsoptionen
+            auf der Seite durchsuchen können.
     scroll_layout:
       title: Scroll Layout
       scroll: "Auf dieser Seite wird gezeigt, wie Sie ein Skript namens ScrollTo

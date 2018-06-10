@@ -2,7 +2,7 @@
 title: titles.home
 a-z: [atoz.home]
 keywords: knowledge base homepage
-tags: [tags.getting_started]
+tags: [getting_started]
 sidebar: home_sidebar
 permalink: index.html
 toc: false
