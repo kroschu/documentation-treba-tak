@@ -14,7 +14,9 @@ toc: false
 
       <a href="https://git.it-services.ruhr-uni-bochum.de/FDM/ag-fdm.io" class="btn btn-lg btn-primary" target="_blank">{% t index.contribute %} </a>
 
-      <h4>{% t index.description %}</h4>
+{% capture page_note %}{% t index.description %}{% endcapture %}
+{% include note.html content=page_note %}
+
    </div>
    <div class="col-md-3 col-sm-6">
        <div class="panel panel-default text-center">

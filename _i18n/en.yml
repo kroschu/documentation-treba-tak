@@ -13,7 +13,7 @@ titles:
     resources: Resources
     getting_started: Getting Started
     community: Community
-    special_layouts: "Spezielle Layouts-Seite"
+    special_layouts: Spezielle Layouts-Seite
     servicesproducts: "Services and Products"
   training: Training
   special_layouts: Special layout pages
@@ -79,6 +79,9 @@ index:
   community:
     title: Community
     description: Contributing
+layouts:
+  page:
+   summay: Summary
 pages:
   tags:
     taglogic:
@@ -144,6 +147,9 @@ pages:
              difficult for tables below the JSON to adequately explain the
              term in a
             usable way."
+      alert_note: This was mostly an experiment to see if there was a better
+                  way to document a long JSON code example. I haven't actually
+                  used this approach in my own documentation.
   agfdm:
     ask_for_help: 
       title: How to Ask for Help

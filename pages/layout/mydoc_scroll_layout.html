@@ -234,8 +234,8 @@ $('#small-box-links').localScroll({
 </div> <!-- end row -->
 </div> <!-- end container -->
 
-
-{{site.data.alerts.note}} This was mostly an experiment to see if there was a better way to document a long JSON code example. I haven't actually used this approach in my own documentation.{{site.data.alerts.end}}
+{% capture page_alert_note %}{% t pages.layouts.shuffle_layout.alerts_note %}{% endcapture %}
+{% include warning.html content=page_alert_note %}
 
 {% endif %}
 

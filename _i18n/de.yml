@@ -13,7 +13,7 @@ titles:
     resources: Ressourcen
     getting_started: Erste Schritte
     community: Gemeinschaft
-    special_layouts: "Spezielle Layouts-Seite"
+    special_layouts: Spezielle Layouts-Seite
     servicesproducts: "Dienstleistungen und Produkte"
   training: Training
   special_layouts: Spezielle Layout-Seite
@@ -79,6 +79,9 @@ index:
   community:
     title: Gemeinschaft
     description: Beitragen
+layouts:
+  page:
+   summay: Zusammenfassung
 pages:
   tags:
     taglogic:
@@ -147,6 +150,10 @@ pages:
              viel Nesting und Subnestring beinhalten, was es für Tabellen
              unterhalb des JSON schwierig macht, den Begriff in geeigneter
              Weise zu erklären."
+      alert_note: Dies war hauptsächlich ein Experiment, um zu sehen, ob es
+                  einen besseren Weg gibt, ein langes JSON-Codebeispiel
+                  zu dokumentieren. Ich habe diesen Ansatz in meiner eigenen
+                  Dokumentation nicht verwendet.
   agfdm:
     ask_for_help: 
       title: Wie bekomme ich Hilfe
