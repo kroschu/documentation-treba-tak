@@ -10,16 +10,10 @@ permalink: agfdm-introduction.html
 folder: agfdm
 ---
 
-# Orientation: What is RUB  Research Data Management Service?
+{% tf pages/agfdm/new_start_here/introduction/orientation.md %}
 
-## RUB Rectorat Project: Research Data Management
-
-...
-
-## Research Data Management Working Group at RUB (WG FDM)
-
-Research Data Management Working Group ...
-
-
+  {% tf pages/agfdm/new_start_here/introduction/RectoratProject.md %}
+  
+  {% tf pages/agfdm/new_start_here/introduction/AGFDM.md %}
 
 ### Next: Read more about [How to Ask for Help](/agfdm-get-help.html)
