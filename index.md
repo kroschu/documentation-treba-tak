@@ -1,8 +1,8 @@
 ---
 title: titles.home
 a-z: [atoz.home]
-keywords: knowledge base homepage
-tags: [getting_started]
+keywords: index.keywords
+tags: [tags.getting_started]
 sidebar: home_sidebar
 permalink: index.html
 toc: false

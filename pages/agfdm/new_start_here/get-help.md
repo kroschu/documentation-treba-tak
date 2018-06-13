@@ -1,7 +1,7 @@
 ---
-title: titles.pages.agfdm.ask_for_help
-a-z: [atoz.ask_for_help]
-keywords: contact community help
+title: pages.agfdm.ask_for_help.title
+a-z: [pages.agfdm.ask_for_help.atoz]
+keywords: pages.agfdm.ask_for_help.keywords
 permalink: agfdm-get-help.html
 folder: agfdm
 tags: false

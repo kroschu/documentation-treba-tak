@@ -17,6 +17,7 @@ titles:
     servicesproducts: "Services and Products"
   training: Training
   special_layouts: Special layout pages
+  scroll_layout: Scroll Layout
   a_z_index: 'A-Z Index'
 feedback:
   site_text: RUB Helpdesk
@@ -36,7 +37,6 @@ atoz:
   servicesproducts: Services and Products
   resources: Resources
   getting_started: Getting Started
-  ask_for_help: How to Ask for Help
   community: Community
   special_layouts: special_layouts
   scroll_layout: scroll_layout
@@ -55,8 +55,10 @@ include:
   important: "Improtant:"
   warning: "Warning:"
   tip: "Tip:"
+  toc: Table of Contents 
 index:
   title: Knowledge Base Categories
+  keywords: knowledge base homepage
   contribute: Contribute New Documentation
   description: |
     "Note: This site is under active development. Some pages
@@ -139,7 +141,9 @@ pages:
             navigation options on the side while viewing a topic.
     scroll_layout:
       title: Scroll layout
-      scroll: "This page demonstrates how you the integration of a script
+      atoz: Scroll layout
+      keywords: json, scrolling, scrollto, jquery plugin
+      summary: "This page demonstrates how you the integration of a script
              called ScrollTo, which is used here to link definitions of a
              JSON code sample to a list of definitions for that particular
              term. The scenario here is that the JSON blocks are really
@@ -154,6 +158,7 @@ pages:
     ask_for_help: 
       title: How to Ask for Help
       atoz: How to Ask for Help
+      keywords: contact, community, help
     introduction:
       title: Introduction
       atoz: Introduction
