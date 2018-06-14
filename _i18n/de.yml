@@ -83,7 +83,7 @@ index:
     description: Beitragen
 layouts:
   page:
-   summay: Zusammenfassung
+   summary: Zusammenfassung
 pages:
   tags:
     taglogic:

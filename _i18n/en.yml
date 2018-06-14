@@ -83,7 +83,7 @@ index:
     description: Contributing
 layouts:
   page:
-   summay: Summary
+   summary: Summary
 pages:
   tags:
     taglogic:
