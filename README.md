@@ -1,11 +1,19 @@
 # documentation-theme-jekyll-multiple_language_pop
 
-proof of principle adding i18n support to documentation-theme-jekyll via jekyll-multiple-languages-plugin
+proof of principle adding i18n support to (samvera.github.io) documentation-theme-jekyll via jekyll-multiple-languages-plugin
 
-Using parts from https://github.com/samvera/samvera.github.io and the https://github.com/Anthony-Gaudino/jekyll-multiple-languages-plugin
+Using parts from https://github.com/samvera/samvera.github.io and the https://github.com/Anthony-Gaudino/jekyll-multiple-languages-plugin 
+
+The i18n integration is via "_plugins" using multiple-languages submodule. The translations are implemented as being described in  https://github.com/Anthony-Gaudino/jekyll-multiple-languages-plugin/blob/master/README.md 
+
+## Missing (Todo)
+- TOC "Table of contence" via bootstrap css 
+- a-z index sort 
+  - sort must run over translated tags, titles and pages. At the current stage  https://github.com/jmfrenzel/documentation-theme-jekyll-multiple_language_pop/commit/fdbc77ccc8f71ab9842972cb615455bb2205fb2f the i18n yaml variable names are sorted. 
+
 
 ------
-
+...continue with the org. Readme 
 ## Our Theme
 
 We use a Jekyll theme designed for [documentation](https://github.com/tomjohnson1492/documentation-theme-jekyll). We chose the Documentation Theme because of its excellent navigation and clear page layout, and for the ease of working in markdown.
