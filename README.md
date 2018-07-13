@@ -1,4 +1,10 @@
-# ag-fdm.io
+# documentation-theme-jekyll-multiple_language_pop
+
+proof of principle adding i18n support to documentation-theme-jekyll via jekyll-multiple-languages-plugin
+
+Using parts from https://github.com/samvera/samvera.github.io and the https://github.com/Anthony-Gaudino/jekyll-multiple-languages-plugin
+
+------
 
 ## Our Theme
 
