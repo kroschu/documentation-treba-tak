@@ -18,6 +18,9 @@ site_title: titles.site_title
 company_name: База знань до проекту ТребаТак 
 # this appears in the footer
 
+plugins:
+  - jekyll-multiple-languages-plugin
+
 # github_editme_path: tomjohnson1492/documentation-theme-jekyll/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
